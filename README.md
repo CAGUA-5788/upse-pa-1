@@ -6,7 +6,7 @@ Práctica de Programacion Avanzada 1 - UPSE
 IRWIN CAGUA
 
 
-# Cómo ejecutar este proyecto
+# Cómo ejecutar el proyecto:
 
 Para ejecutar este proyecto, sigue estos pasos:
 1. Asegúrate de tener instalado Python 3.x en tu sistema.
