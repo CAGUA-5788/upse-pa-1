@@ -3,7 +3,7 @@
 Práctica de Programacion Avanzada 1 - UPSE
 
 
-Luis Torres
+IRWIN CAGUA
 
 
 # Cómo ejecutar este proyecto
