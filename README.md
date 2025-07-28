@@ -1,12 +1,12 @@
-# Proyecto Final de Programacion Avanzada 1 (PA-1)
+# Proyecto Final de Programacion Avanzada 1 (PA-1)2
 
 Práctica de Programacion Avanzada 1 - UPSE
 
 
-Luis Torres
+IRWIN CAGUA
 
 
-# Cómo ejecutar este proyecto
+# Cómo ejecutar el proyecto:
 
 Para ejecutar este proyecto, sigue estos pasos:
 1. Asegúrate de tener instalado Python 3.x en tu sistema.
